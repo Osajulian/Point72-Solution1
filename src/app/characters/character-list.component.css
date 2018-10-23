@@ -1,0 +1,10 @@
+
+thead {
+    color: #337Ab7;
+}
+
+@media only screen and (max-width: 576px) {
+    .container {
+      font-size: 0.7em;
+    }
+}
